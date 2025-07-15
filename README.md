@@ -4,7 +4,7 @@ Este repositorio contiene los tres códigos utilizados durante el curso de veran
 
 ---
 
-##  Componentes usados
+## Componentes usados
 - Arduino Uno
 - Módulo Bluetooth HC-05
 - Driver de motor L298N
@@ -14,37 +14,39 @@ Este repositorio contiene los tres códigos utilizados durante el curso de veran
 
 ---
 
-##  ¿Qué aprendieron los estudiantes?
+## ¿Qué aprendieron los estudiantes?
 
-### 🔹 Código 1: Conceptos básicos de Arduino
+### Código 1: Conceptos básicos de Arduino
 - `pinMode()`, `digitalWrite()`, `Serial.begin()`
 - Inicialización de variables
 - Estructura de `setup()` y `loop()`
 - Movimiento básico: adelante y atrás
 
-### 🔹 Código 2: Lectura del monitor serial
+### Código 2: Lectura del monitor serial
 - Uso de `Serial.read()` y `Serial.println()`
 - Interpretación de mensajes recibidos
 - Comprobación de comandos vía monitor serial
 
-### 🔹 Código 3: Lógica con `switch-case`
+### Código 3: Lógica con `switch-case`
 - Control completo del carrito (adelante, atrás, izquierda, derecha, detenerse)
 - Recepción de comandos desde el celular vía Bluetooth
 - Aplicación de `switch-case` para decisiones según el comando
 
 ---
 
-##  Archivos incluidos
+## Archivos incluidos
 
-| Archivo              | Descripción                                           |
-|----------------------|-------------------------------------------------------|
-| `codigo_1_basico.ino`| Movimiento adelante y atrás con funciones básicas     |
-| `codigo_2_serial.ino`| Lectura de comandos desde el monitor serial           |
-| `codigo_3_bluetooth.ino`| Control del carrito vía Bluetooth con `switch-case`|
+| Archivo                 | Descripción                                            |
+|-------------------------|--------------------------------------------------------|
+| `codigo_1_basico.ino`   | Movimiento adelante y atrás con funciones básicas      |
+| `codigo_2_serial.ino`   | Lectura de comandos desde el monitor serial            |
+| `codigo_3_bluetooth.ino`| Control del carrito vía Bluetooth con `switch-case`    |
 
 ---
 
-##  Sobre el curso
+## Sobre el autor y el curso
+
+Los tres códigos fueron desarrollados y comentados por **Francisco Viveros**, para que los estudiantes pudieran entender claramente cada sección y concepto dentro del programa.
 
 Este curso fue impartido en el **Verano STEM 2025** en la **Universidad de las Américas Puebla (UDLAP)**, donde estudiantes de secundaria y preparatoria tuvieron una introducción práctica al mundo de la programación, electrónica y robótica con Arduino.
 
