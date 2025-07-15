@@ -1,10 +1,10 @@
-# 🚗 Intro Arduino Car Project – Verano STEM UDLAP 2025
+# Intro Arduino Car Project – Verano STEM UDLAP 2025
 
 Este repositorio contiene los tres códigos utilizados durante el curso de verano **STEM 2025 en la UDLAP**, donde los estudiantes aprendieron a **construir y programar un carrito controlado por Bluetooth** utilizando un Arduino Uno, un driver L298N, dos motoreductores y el módulo HC-05.
 
 ---
 
-## 🧰 Componentes usados
+##  Componentes usados
 - Arduino Uno
 - Módulo Bluetooth HC-05
 - Driver de motor L298N
@@ -14,7 +14,7 @@ Este repositorio contiene los tres códigos utilizados durante el curso de veran
 
 ---
 
-## 🧠 ¿Qué aprendieron los estudiantes?
+##  ¿Qué aprendieron los estudiantes?
 
 ### 🔹 Código 1: Conceptos básicos de Arduino
 - `pinMode()`, `digitalWrite()`, `Serial.begin()`
@@ -34,7 +34,7 @@ Este repositorio contiene los tres códigos utilizados durante el curso de veran
 
 ---
 
-## 🧩 Archivos incluidos
+##  Archivos incluidos
 
 | Archivo              | Descripción                                           |
 |----------------------|-------------------------------------------------------|
@@ -44,7 +44,7 @@ Este repositorio contiene los tres códigos utilizados durante el curso de veran
 
 ---
 
-## 🎓 Sobre el curso
+##  Sobre el curso
 
 Este curso fue impartido en el **Verano STEM 2025** en la **Universidad de las Américas Puebla (UDLAP)**, donde estudiantes de secundaria y preparatoria tuvieron una introducción práctica al mundo de la programación, electrónica y robótica con Arduino.
 
