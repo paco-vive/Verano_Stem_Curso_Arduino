@@ -50,12 +50,4 @@ Este curso fue impartido en el **Verano STEM 2025** en la **Universidad de las A
 
 ---
 
-## 📲 Próximos pasos sugeridos
-
-- Añadir sensores (como ultrasonido)
-- Control por app Bluetooth (App Inventor)
-- Integrar control PID o sensores de línea
-
----
-
 > Este proyecto busca inspirar a nuevas generaciones a iniciarse en la robótica de forma accesible, divertida y significativa.
