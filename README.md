@@ -9,7 +9,7 @@ Este repositorio contiene los tres códigos utilizados durante el curso de veran
 - Módulo Bluetooth HC-05
 - Driver de motor L298N
 - 2 motoreductores (3–6 V)
-- Batería 9V (o similar)
+- Batería portátil 
 - Cables y protoboard
 
 ---
