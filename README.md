@@ -46,7 +46,7 @@ Este repositorio contiene los tres códigos utilizados durante el curso de veran
 
 ## Sobre el autor y el curso
 
-Los tres códigos fueron desarrollados y comentados por **Francisco Viveros**, para que los estudiantes pudieran entender claramente cada sección y concepto dentro del programa.
+Los tres códigos fueron desarrollados por mi **(Francisco Viveros)**, para que los estudiantes pudieran entender claramente cada sección y concepto dentro del programa.
 
 Este curso fue impartido en el **Verano STEM 2025** en la **Universidad de las Américas Puebla (UDLAP)**, donde estudiantes de secundaria y preparatoria tuvieron una introducción práctica al mundo de la programación, electrónica y robótica con Arduino.
 
